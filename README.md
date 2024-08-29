@@ -1,5 +1,7 @@
-# Inper
-BMVC2024: Whole-Process Domain Generalization via Causal Intervention and Perturbation
+# Mixstyle-Entropy
+BMVC2024
+
+Mixstyle-Entropy: Whole Process Domain Generalization with Causal Intervention and Perturbation
 
 
-Code coming soon.
+Code is coming soon.
